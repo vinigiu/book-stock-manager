@@ -1,0 +1,14 @@
+/home/vinigiu/Documentos/Estudos/Senac/2o Semestre/Algoritmos e Programacao II/projetos-estudos/PTI-Controle-Estoque/ControleEstoquePTI/obj/Debug/net8.0/ControleEstoquePTI.GeneratedMSBuildEditorConfig.editorconfig
+/home/vinigiu/Documentos/Estudos/Senac/2o Semestre/Algoritmos e Programacao II/projetos-estudos/PTI-Controle-Estoque/ControleEstoquePTI/obj/Debug/net8.0/ControleEstoquePTI.AssemblyInfoInputs.cache
+/home/vinigiu/Documentos/Estudos/Senac/2o Semestre/Algoritmos e Programacao II/projetos-estudos/PTI-Controle-Estoque/ControleEstoquePTI/obj/Debug/net8.0/ControleEstoquePTI.AssemblyInfo.cs
+/home/vinigiu/Documentos/Estudos/Senac/2o Semestre/Algoritmos e Programacao II/projetos-estudos/PTI-Controle-Estoque/ControleEstoquePTI/obj/Debug/net8.0/ControleEstoquePTI.csproj.CoreCompileInputs.cache
+/home/vinigiu/Documentos/Estudos/Senac/2o Semestre/Algoritmos e Programacao II/projetos-estudos/PTI-Controle-Estoque/ControleEstoquePTI/bin/Debug/net8.0/ControleEstoquePTI
+/home/vinigiu/Documentos/Estudos/Senac/2o Semestre/Algoritmos e Programacao II/projetos-estudos/PTI-Controle-Estoque/ControleEstoquePTI/bin/Debug/net8.0/ControleEstoquePTI.deps.json
+/home/vinigiu/Documentos/Estudos/Senac/2o Semestre/Algoritmos e Programacao II/projetos-estudos/PTI-Controle-Estoque/ControleEstoquePTI/bin/Debug/net8.0/ControleEstoquePTI.runtimeconfig.json
+/home/vinigiu/Documentos/Estudos/Senac/2o Semestre/Algoritmos e Programacao II/projetos-estudos/PTI-Controle-Estoque/ControleEstoquePTI/bin/Debug/net8.0/ControleEstoquePTI.dll
+/home/vinigiu/Documentos/Estudos/Senac/2o Semestre/Algoritmos e Programacao II/projetos-estudos/PTI-Controle-Estoque/ControleEstoquePTI/bin/Debug/net8.0/ControleEstoquePTI.pdb
+/home/vinigiu/Documentos/Estudos/Senac/2o Semestre/Algoritmos e Programacao II/projetos-estudos/PTI-Controle-Estoque/ControleEstoquePTI/obj/Debug/net8.0/ControleEstoquePTI.dll
+/home/vinigiu/Documentos/Estudos/Senac/2o Semestre/Algoritmos e Programacao II/projetos-estudos/PTI-Controle-Estoque/ControleEstoquePTI/obj/Debug/net8.0/refint/ControleEstoquePTI.dll
+/home/vinigiu/Documentos/Estudos/Senac/2o Semestre/Algoritmos e Programacao II/projetos-estudos/PTI-Controle-Estoque/ControleEstoquePTI/obj/Debug/net8.0/ControleEstoquePTI.pdb
+/home/vinigiu/Documentos/Estudos/Senac/2o Semestre/Algoritmos e Programacao II/projetos-estudos/PTI-Controle-Estoque/ControleEstoquePTI/obj/Debug/net8.0/ControleEstoquePTI.genruntimeconfig.cache
+/home/vinigiu/Documentos/Estudos/Senac/2o Semestre/Algoritmos e Programacao II/projetos-estudos/PTI-Controle-Estoque/ControleEstoquePTI/obj/Debug/net8.0/ref/ControleEstoquePTI.dll
